@@ -1,5 +1,5 @@
 ![Vanessa Donkor](https://raw.githubusercontent.com/Donkorv/Donkorv/refs/heads/main/github-banner.svg) 
-<h1 align="center">Hi, I'm Vanessa 👋</h1>
+
 <h3 align="center">Aspiring Data Analyst | Business Intelligence | Turning Data into Decisions</h3>
 
 <p align="center">
